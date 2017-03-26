@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=portfolio\ photographer
+comment0.target=Photographer(Portfolio,\ java.lang.String)
+comment1.params=assignment
+comment1.target=void\ getAssignment(Assignment)
+comment1.text=\n\ Photographer\ to\ get\ assignment\ and\ add\ pictture\ to\ portfolio\n\ @\ param\ assignment\ the\ assignment\ for\ photographer\n
+comment2.params=description
+comment2.target=java.lang.String\ takePicture(java.lang.String)
+comment2.text=\n\ A\ helper\ method\ you\ will\ need\ to\ use.\n\n\ @param\ description\ the\ description\ of\ the\ desired\ photo.\n\ @return\ the\ name\ of\ a\ file\ with\ a\ photo\ matching\ the\ description.\n
+comment3.params=
+comment3.target=void\ readPhotos()
+comment3.text=\n\ Don't\ look\ too\ hard\ at\ this\ method.\ this\ is\ how\ the\ photographer\ will\n\ be\ able\ to\ return\ a\ photo\ file\ name\ given\ a\ description.\ There\ is\ a\n\ secret\ index\ in\ photos.txt\ that\ is\ read\ by\ this\ method.\ Ideally,\ this\n\ method\ would\ involve\ a\ photographer\ going\ out\ and\ taking\ a\ picture\ and\n\ putting\ it\ in\ the\ system.\ That\ would\ take\ a\ lot\ of\ time\ though,\ so\ instead\n\ the\ photos\ are\ already\ included.\n
+numComments=4
